@@ -165,7 +165,6 @@ const Main = () => {
                 tiempo_por_partido: tiempo_por_partido,
                 color_uniforme: color_uniforme
             })
-
             const arrayEditado = listaDeportes.map(
                 item => item.id === id ? {
                     id: id, nombre: deporte, descripcion: descripcion, tipo: tipo,
