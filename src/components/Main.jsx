@@ -191,7 +191,6 @@ const Main = () => {
         }
 
     }
-
     const eliminar = async id => {
         try {
             const db = firebase.firestore()
