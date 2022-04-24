@@ -122,7 +122,6 @@ const Main = () => {
         setModoEdicion(true)
         setId(item.id)
     }
-
     const editarDeportes = async e => {
         e.preventDefault()
 
