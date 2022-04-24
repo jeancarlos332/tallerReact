@@ -1,0 +1,7 @@
+Link de aplicación desplegada en Netlify
+
+https://6264d44e42ae7751300634ab--grand-zuccutto-36e420.netlify.app/
+
+Link de aplicación desplegada en AWS Amplify
+
+https://main.df0bzo9j2o23i.amplifyapp.com/
